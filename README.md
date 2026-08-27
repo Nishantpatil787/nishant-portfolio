@@ -2,15 +2,15 @@
 
 > AI/ML Student • Developer • Builder
 
-A modern personal portfolio website showcasing my projects, technical skills, learning journey, leadership experience, and software development work.
+A modern personal portfolio website showcasing my projects, technical skills, software development work, and leadership experience.
 
-The portfolio focuses on Artificial Intelligence, Machine Learning, Software Development, Data Analytics, and practical problem solving.
+The portfolio focuses on Artificial Intelligence, Machine Learning, Software Development, Data Analytics, Data Visualization, and practical problem solving.
 
 ---
 
 ## 🌐 Live Portfolio
 
-**Portfolio:**  
+**Website:**  
 https://nishant-portfolio-flame.vercel.app
 
 **GitHub:**  
@@ -21,9 +21,9 @@ https://www.linkedin.com/in/nishant-patil-0590253a3
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I'm Nishant Rajesh Patil, an AI/ML student and developer interested in turning ideas, data, and algorithms into practical applications.
+I'm **Nishant Rajesh Patil**, an AI/ML student and developer interested in turning ideas, data, and algorithms into practical applications.
 
 I enjoy building systems that solve real-world problems and exploring technologies across:
 
@@ -43,14 +43,15 @@ I enjoy building systems that solve real-world problems and exploring technologi
 
 An examination seating arrangement system designed to automate student allocation, hall management, and structured seating output.
 
-**Technologies:**
+**Technologies**
 
 - Python
 - Flask
 - Data Processing
 - Automation
 
-**Repository:**  
+**Repository**
+
 https://github.com/Nishantpatil787/SeatMatrix-AI
 
 ---
@@ -59,14 +60,15 @@ https://github.com/Nishantpatil787/SeatMatrix-AI
 
 A Python-based IPL data analysis project exploring team performance, scoring trends, player statistics, and match insights.
 
-**Technologies:**
+**Technologies**
 
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-**Repository:**  
+**Repository**
+
 https://github.com/Nishantpatil787/IPL-Score-Analysis
 
 ---
@@ -75,7 +77,7 @@ https://github.com/Nishantpatil787/IPL-Score-Analysis
 
 A technology-focused project aimed at addressing practical agricultural challenges through digital solutions.
 
-**Focus:**
+**Focus**
 
 - Technology
 - Problem Solving
@@ -83,9 +85,9 @@ A technology-focused project aimed at addressing practical agricultural challeng
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming
 
 - Python
 - C
@@ -98,7 +100,7 @@ A technology-focused project aimed at addressing practical agricultural challeng
 - Flask
 - Django
 
-### AI / ML
+### AI / Machine Learning
 
 - Machine Learning
 - Data Analysis
@@ -141,10 +143,10 @@ Working with a programming-focused student community and contributing to technic
 ## ✨ Portfolio Features
 
 - Modern dark-themed interface
-- Responsive portfolio layout
-- Custom NP personal brand identity
+- Responsive design
+- Custom NP brand identity
 - Project showcase
-- Individual project case-study pages
+- Individual project case studies
 - Project screenshots
 - GitHub integration
 - Resume access
@@ -155,30 +157,31 @@ Working with a programming-focused student community and contributing to technic
 
 ---
 
-## ⚙️ Tech Used for This Portfolio
+## ⚙️ Built With
 
 This portfolio is built using:
 
-- React
-- Vite
-- React Router
-- JavaScript
-- CSS
-- Git
-- GitHub
-- Vercel
+- **React**
+- **Vite**
+- **React Router**
+- **JavaScript**
+- **CSS**
+- **Git**
+- **GitHub**
+- **Vercel**
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 nishant-portfolio/
 │
 ├── public/
 │   ├── favicon.png
-│   ├── resume.pdf
-│   └── ...
+│   ├── favicon.svg
+│   ├── icons.svg
+│   └── resume.pdf
 │
 ├── src/
 │   ├── assets/
@@ -213,6 +216,7 @@ nishant-portfolio/
 │
 ├── index.html
 ├── package.json
+├── package-lock.json
 ├── vercel.json
 ├── vite.config.js
 └── README.md
